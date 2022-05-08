@@ -15,3 +15,7 @@ This visualization, another interactive map, shows sale distribution across citi
 ### Visualization 3: Sub-Regional Profits and Shipping Time in the U.S.
 
 This visualization functions like the previous two, but divides U.S. states into sub-regional groups rather than state or city. Clicking on any sub-region displays its profit margin ratio accompanied by a trend line. On the right, average time to ship to the selected subregion is displayed.
+
+## Part 2:
+
+For this part of the challenge, I used Pandas dataframes to pre-process the data, Seaborn to create a brief visualization section, and TensorFlow with Keras to train a predictive model to 
