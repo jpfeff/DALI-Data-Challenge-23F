@@ -1,6 +1,8 @@
 # DALI-Data-Challenge-22S
 
-Link to Data Challenge Part 1: https://public.tableau.com/app/profile/joshua.pfefferkorn/viz/DALIVisualizationsPfefferkorn/ProfitsbyU_S_State?publish=yes
+## Part 1: 
+
+https://public.tableau.com/app/profile/joshua.pfefferkorn/viz/DALIVisualizationsPfefferkorn/ProfitsbyU_S_State?publish=yes
 
 ### Visualization 1: Profits by U.S. State
 
