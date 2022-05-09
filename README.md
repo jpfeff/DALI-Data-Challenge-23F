@@ -19,4 +19,4 @@ This visualization functions like the previous two, but divides U.S. states into
 
 ## Part 2:
 
-For this part of the challenge, I used Pandas dataframes to pre-process the data, Seaborn to create a brief visualization section, and TensorFlow with Keras to train a model to predict profit margin ratio given a sale. The model's final 
+For this part of the challenge, I used Pandas dataframes to pre-process the data, Seaborn to create a brief visualization section, and TensorFlow with Keras to train a model to predict profit margin ratio given a sale. The model's final error was around 0.023, with an $R^2$ score of 0.89.
