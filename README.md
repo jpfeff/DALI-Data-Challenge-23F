@@ -9,6 +9,8 @@ https://public.tableau.com/app/profile/joshua.pfefferkorn/viz/DALIVisualizations
 
 This visualization is an interactive map of U.S. States and profits. Hovering over a state displays total profit or loss in that state in USD. Clicking a state reveals its profits by sub-category and profits over time. States colored green indicate prositive profits, while those colored red have not been profitable. When no state is selected, aggregate data is shown. Hovering over either of the lower visualizations displays total profits in USD for the specified sub-category or time point.
 
+#### Analysis
+
 Aggregate data indicates that tables, bookcases, and supplies all account for a net loss. Furthermore, profits in various midwestern and eastern status are negative. On the contrary, profits are high in states like California, New York, and Washington. Even so, tables still result in a loss in these states. A store manager could use these visualizations to adjust sales -- in terms of categories of goods and regions of the U.S. -- and maximize profit.
 
 ### Visualization 2: Sales by U.S. City
@@ -26,3 +28,5 @@ This visualization combines the metrics in the previous two, using profit margin
 ## Part 2:
 
 For this part of the challenge, I used Pandas dataframes to pre-process the data, Seaborn to create a brief visualization section, and TensorFlow with Keras to train a model to predict profit margin ratio given a sale. Comments and markdown cells in the notebook describe my process of cleaning and investigating the data. The model's final error was around 0.023, with an R^2 score of 0.89.
+
+
