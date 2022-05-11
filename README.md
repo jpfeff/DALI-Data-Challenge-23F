@@ -21,6 +21,8 @@ This visualization indicates that sales are highest in large coastal cities like
 
 This visualization functions like the previous two, but divides U.S. states into sub-regional groups rather than state or city. Clicking on any sub-region displays its profit margin ratio accompanied by a trend line. On the right, average time to ship to the selected subregion is displayed.
 
+This visualization combines the metrics in the previous two, using profit margin ratio computed with sales and profit data. Trendlines indicate general tendencies in earning proportions. This metric is useful because it displays profit normalized by sales, so profit magnitude is not just a function of the number of sales. The map is broken down into broader sub-regions, allowing for a higher-level overview of regional trends. 
+
 ## Part 2:
 
 For this part of the challenge, I used Pandas dataframes to pre-process the data, Seaborn to create a brief visualization section, and TensorFlow with Keras to train a model to predict profit margin ratio given a sale. Comments and markdown cells in the notebook describe my process of cleaning and investigating the data. The model's final error was around 0.023, with an R^2 score of 0.89.
