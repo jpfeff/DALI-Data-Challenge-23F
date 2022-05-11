@@ -35,6 +35,16 @@ This visualization functions like the previous two, but divides U.S. states into
 
 This visualization combines the metrics in the previous two, using profit margin ratio computed with sales and profit data. Trendlines indicate general tendencies in earning proportions. This metric is useful because it displays profit normalized by sales, so profit magnitude is not just a function of the number of sales. The map is broken down into broader sub-regions, allowing for a higher-level overview of regional trends. As shown, sales in the West, North West, and North East have high profit margin ratios as well as a upwards trendline. Overall, profit margin in the South is negative or trending downwards. Profit margins in the Midwest and Mid-Atlantic are slightly positive, and relatively stationary in terms of trend. This visualization could be used by the store to inform marketing efforts in these regions.
 
+## Visualization 4: Profits and Sales Over Time
+
+#### Explanation
+
+This visualization shows sales (grey bars) and profits (orange line) overlayed in a time series graph. It features an interactive time slider and checkboxes for sub-category.
+
+#### Analysis
+
+This visualization allows the user to observe trends in profits and sales at varying levels of granularity, both in terms of time and product type. As shown, sales and profits fluctuate synchronously but undergo a general upwards trend over time. In recent months in particular, profits soar above sales. A store manager could use this to recognize sales trends and adjust prices and inventory accordingly.
+
 ## Part 2:
 
 #### Explanation
