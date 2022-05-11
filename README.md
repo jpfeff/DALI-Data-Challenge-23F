@@ -9,9 +9,13 @@ https://public.tableau.com/app/profile/joshua.pfefferkorn/viz/DALIVisualizations
 
 This visualization is an interactive map of U.S. States and profits. Hovering over a state displays total profit or loss in that state in USD. Clicking a state reveals its profits by sub-category and profits over time. States colored green indicate prositive profits, while those colored red have not been profitable. When no state is selected, aggregate data is shown. Hovering over either of the lower visualizations displays total profits in USD for the specified sub-category or time point.
 
+Aggregate data indicates that tables, bookcases, and supplies all account for a net loss. Furthermore, profits in various midwestern and eastern status are negative. On the contrary, profits are high in states like California, New York, and Washington. Even so, tables still result in a loss in these states. A store manager could use these visualizations to adjust sales -- in terms of categories of goods and regions of the U.S. -- and maximize profit.
+
 ### Visualization 2: Sales by U.S. City
 
 This visualization, another interactive map, shows sale distribution across cities in the U.S. Larger dots correspond to a greater portion of sales; hovering over a dot shows total sales in USD, and clicking it updates the graphs below. The lower visualizations decompose sales into category (left) and segment (right). Hovering over either of these visualizations displays total sales in USD.
+
+This visualization indicates that sales are highest in large coastal cities like Los Angeles, San Francisco, Seattle, New York City, and Philadelphia. Sales are much more sparse in Midwestern and Great Plains regions. The cities vary in terms of segment and category breakdown. This visualization provides valuable information; for example, a store owner could use this to target more specific advertisements in high-sale cities based on segment and category data, or perhaps to increase advertisement effort (or cut it off entirely) in low-sale regions.
 
 ### Visualization 3: Sub-Regional Profits and Shipping Time in the U.S.
 
