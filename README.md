@@ -53,7 +53,7 @@ For this part of the challenge, I used Pandas dataframes to pre-process the data
 
 #### Visualizations
 
-Here, I used Seaborn to visualize profits and sales over three divisions: segment, sub-category, and state. As indicated by my Part 1 visualizations, profits were negative in various sub-categories and states. I also observed feature correlations using a correlation heatmap. I found that discount percentage was highly related to profits, and that losses seemed to begin around a 20% discount. I suspected that item type and sub-category also related strongly to profit. -
+Here, I used Seaborn to visualize profits and sales over three divisions: segment, sub-category, and state. As indicated by my Part 1 visualizations, profits were negative in various sub-categories and states. I also observed feature correlations using a correlation heatmap. I found that discount percentage was highly related to profits, and that losses seemed to begin around a 20% discount. I suspected that item type and sub-category also related strongly to profit.
 
 #### Data Preprocessing
 
